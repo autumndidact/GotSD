@@ -1,0 +1,29 @@
+{
+  "title": "Gifts of the Sun Druids",
+  "description": "A 3rd party druid sun order for Pathfinder 2nd edition.",
+  "packs": [
+    {
+      "label": "Gifts of the Sun Druids",
+      "name": "gifts-of-the-sun-druids",
+      "type": "Item",
+      "system": "pf2e",
+      "path": "packs/gifts-of-the-sun-druids"
+    }
+  ],
+  "id": "gifts-of-the-sun-druids",
+  "authors": [
+    {
+      "name": "Autumn Carrie Whisper",
+      "discord": "autumdidact",
+      "url": "https://www.pathfinderinfinite.com/product/442500/Gifts-of-the-Sun-Druids?affiliate_id=248560"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "version": "1",
+  "url": "https://github.com/autumndidact/GotSD",
+  "manifest": "https://raw.githubusercontent.com/autumndidact/GotSD/master/module.json",
+  "download": "https://github.com/autumndidact/GotSD/archive/refs/heads/main.zip"
+}
