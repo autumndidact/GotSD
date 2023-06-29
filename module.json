@@ -8,7 +8,7 @@
       "type": "Item",
       "system": "pf2e",
       "path": "packs/gifts-of-the-sun-druids",
-      "banner": "modules/gifts-of-the-sun-druids/art/sundruidbanner.webp"
+      "banner": "/modules/gifts-of-the-sun-druids/art/sundruidbanner.webp"
     }
   ],
   "id": "gifts-of-the-sun-druids",
@@ -23,7 +23,7 @@
     {
         "type": "setup",
         "caption": "Gifts of the Sun Druids - 3rd party sun order for the druid class in Pathfinder 2nd edition",
-        "thumbnail": "modules/gifts-of-the-sun-druids/art/sundruidbanner.webp"
+        "thumbnail": "/modules/gifts-of-the-sun-druids/art/sundruidbanner.webp"
   }],
   "compatibility": {
     "minimum": "11",
