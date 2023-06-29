@@ -7,8 +7,8 @@
       "name": "gifts-of-the-sun-druids",
       "type": "Item",
       "system": "pf2e",
-      "path": "packs/gifts-of-the-sun-druids"
-      "banner": "modules/gifts-of-the-sun-druids/art/sundruidbanner.webp",
+      "path": "packs/gifts-of-the-sun-druids",
+      "banner": "modules/gifts-of-the-sun-druids/art/sundruidbanner.webp"
     }
   ],
   "id": "gifts-of-the-sun-druids",
